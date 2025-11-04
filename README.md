@@ -1,30 +1,41 @@
-# NutriCart MERN website
+NutriCart
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+NutriCart is a health-focused eCommerce web app built with the MERN stack and Next.js.  
+It offers nutritional filtering, JWT-based user authentication, and a Redux-powered dynamic cart system.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/varshas-projects-83c6faff/v0-nutri-cart-mern-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/cvylbPI1GCe)
+---
 
-## Overview
+ Features
+-  Smart nutrition-based product filtering  
+-  Redux-managed cart with real-time updates  
+-  Secure JWT authentication  
+-  Responsive and clean UI using Tailwind CSS  
+-  Fast, scalable, and deployed on Vercel  
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+---
 
-## Deployment
+ Tech Stack
+- Frontend: React, Next.js, Redux, Tailwind CSS  
+- Backend: Node.js, Express  
+- Database: MongoDB  
+- Hosting: Vercel  
 
-Your project is live at:
+---
 
-**[https://vercel.com/varshas-projects-83c6faff/v0-nutri-cart-mern-website](https://vercel.com/varshas-projects-83c6faff/v0-nutri-cart-mern-website)**
+ Setup Instructions
 
-## Build your app
+1. Clone the repository
+git clone https://github.com/Varsha9845/nutricart.git
 
-Continue building your app on:
+2. Install dependencies
+npm install
 
-**[https://v0.app/chat/cvylbPI1GCe](https://v0.app/chat/cvylbPI1GCe)**
+3. Run the app
+npm run dev
 
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+4. Save the file (Ctrl + S)  
+5. Push your change:
+   ```bash
+   git add README.md
+   git commit -m "Updated README with NutriCart details"
+   git push
