@@ -93,9 +93,8 @@ export default function Footer() {
         <div className="border-t border-white/20 pt-8 flex flex-col md:flex-row items-center justify-between">
           <p className="text-sm text-white/70">© 2025 NutriCart. All rights reserved.</p>
           <div className="flex items-center gap-2 mt-4 md:mt-0 text-sm text-white/70">
-            <span>Made with</span>
-            <Heart className="w-4 h-4 fill-current" />
-            <span>for your health</span>
+            <span>Done by Varsha</span>
+            
           </div>
         </div>
       </div>
