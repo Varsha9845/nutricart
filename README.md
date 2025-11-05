@@ -3,7 +3,7 @@
 NutriCart is a modern full-stack web application designed to promote mindful and healthy shopping. It allows users to explore, filter, and purchase health-oriented products while receiving personalized AI-driven nutrition recommendations. The project is built using the MERN stack with Next.js for a seamless and responsive user experience.
 
 ## Live Demo
-Deployed on Vercel: https://nutri123.vercel.app/
+Deployed on Vercel: https://nutricart-blond.vercel.app/
 
 ## Overview
 NutriCart combines e-commerce functionality with nutrition intelligence. Users can browse sustainable and nutritious products, manage their cart, and receive smart recommendations based on their dietary goals.
